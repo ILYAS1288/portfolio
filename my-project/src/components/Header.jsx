@@ -2,9 +2,9 @@ import React from "react";
 
 export function Header() {
   return (
-    <header className="bg-blue-700 shadow-lg sticky top-0 z-50">
+    <header className="shadow-lg sticky top-0 z-50">
       <nav className="max-w-6xl mx-auto flex items-center justify-between px-6 py-4">
-        <div className="text-2xl font-bold tracking-tight text-white">
+        <div className="text-2xl font-bold tracking-tight text-black">
           MyPortfolio
         </div>
         <ul className="flex space-x-8 text-lg font-medium">
@@ -24,7 +24,7 @@ export function Header() {
             <a
               href="/cv.pdf"
               download
-              className="bg-white text-blue-700 px-4 py-2 rounded-lg font-semibold shadow hover:bg-blue-100 transition-colors"
+              className="bg-black text-white px-4 py-2 rounded-lg font-semibold shadow hover:bg-blue-100 transition-colors"
             >
               Download CV
             </a>
