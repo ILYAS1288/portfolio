@@ -1,16 +1,19 @@
 export function Main1() {
     return (
-        <main className="max-w-5xl mx-auto px-6 py-10">
+        <main className="max-w-5xl mx-auto px-6 py-10 bg-gray-200 rounded-lg shadow-md">
+            {/* Button at the top center */}
+            <div className="flex justify-center mb-8">
+                <button className="px-6 py-2 bg-blue-700 text-white rounded-lg font-semibold shadow text-lg">
+                    About me
+                </button>
+            </div>
             <div className="flex flex-col items-center md:flex-row md:items-start gap-10">
                 {/* Image on the left */}
-                <div className="flex-shrink-0 flex flex-col items-center md:items-start">
-                    <button className="mb-6 px-6 py-2 bg-blue-700 text-white rounded-lg font-semibold shadow text-lg mx-auto md:mx-0">
-                        About me
-                    </button>
+                <div className="flex-shrink-0 flex justify-center md:justify-start w-full md:w-auto">
                     <img
                         src="/image/1.jpeg"
                         alt="Muhammad Ilyas"
-                        className="w-64 h-64 object-cover rounded-xl shadow-lg"
+                        className="w-64 h-80 object-cover rounded-xl shadow-lg"
                     />
                 </div>
                 {/* Text on the right */}
