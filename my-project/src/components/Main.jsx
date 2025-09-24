@@ -27,6 +27,7 @@ export function Main() {
                 <span>Available for new project</span>
                 <div className="flex items-center gap-4 mt-4">
                     {/* GitHub Icon */}
+
                     <a
                         href="https://github.com/your-github-username"
                         target="_blank"
@@ -41,11 +42,12 @@ export function Main() {
                             </svg>
                         </span>
                     </a>
+                    
                     {/* Twitter Icon */}
                     <a
                         href="https://twitter.com/your-twitter-handle"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer"   
                         aria-label="Twitter"
                         className="group"
                     >

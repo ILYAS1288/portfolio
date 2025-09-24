@@ -15,16 +15,19 @@ export function Main2() {
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" className="w-12 h-12" />
                     <span className="mt-2 text-sm font-medium">JavaScript</span>
                 </div>
+
                 {/* TypeScript */}
                 <div className="flex flex-col items-center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" className="w-12 h-12" />
                     <span className="mt-2 text-sm font-medium">TypeScript</span>
                 </div>
+
                 {/* React */}
                 <div className="flex flex-col items-center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" className="w-12 h-12" />
                     <span className="mt-2 text-sm font-medium">React</span>
                 </div>
+
                 {/* Next.js */}
                 <div className="flex flex-col items-center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" className="w-12 h-12 bg-white rounded" />
@@ -35,6 +38,7 @@ export function Main2() {
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" className="w-12 h-12" />
                     <span className="mt-2 text-sm font-medium">Node.js</span>
                 </div>
+
                 {/* Express.js */}
                 <div className="flex flex-col items-center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" className="w-12 h-12 bg-white rounded" />
@@ -45,6 +49,7 @@ export function Main2() {
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" className="w-12 h-12" />
                     <span className="mt-2 text-sm font-medium">MongoDB</span>
                 </div>
+
                 {/* Socket.io */}
                 <div className="flex flex-col items-center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" className="w-12 h-12 bg-white rounded" />
@@ -61,6 +66,7 @@ export function Main2() {
                     <span className="mt-2 text-sm font-medium">CSS3</span>
                 </div>
                 {/* Tailwind CSS */}
+
                 <div className="flex flex-col items-center">
                     <img
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
@@ -74,6 +80,7 @@ export function Main2() {
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" className="w-12 h-12" />
                     <span className="mt-2 text-sm font-medium">Git</span>
                 </div>
+                
                 {/* GitHub */}
                 <div className="flex flex-col items-center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" className="w-12 h-12" />
