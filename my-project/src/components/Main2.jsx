@@ -75,6 +75,7 @@ export function Main2() {
                     />
                     <span className="mt-2 text-sm font-medium">Tailwind CSS</span>
                 </div>
+                
                 {/* Git */}
                 <div className="flex flex-col items-center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" className="w-12 h-12" />
