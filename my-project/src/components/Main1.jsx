@@ -8,7 +8,7 @@ export function Main1() {
                 </button>
             </div>
             <div className="flex flex-col items-center md:flex-row md:items-start gap-10">
-                {/* Image on the left */}
+                {/*s on the left */}
                 <div className="flex-shrink-0 flex justify-center md:justify-start w-full md:w-auto">
                     <img
                         src="/image/1.jpeg"
@@ -16,8 +16,7 @@ export function Main1() {
                         className="w-64 h-80 object-cover rounded-xl shadow-lg"
                     />
                 </div>
-                
-                {/* Text on the right */}
+                {/*  on the right */}
                 <div className="flex-1">
                     <p>
                         <span className="text-3xl font-bold">Curious about me? Here you have it:</span> <br />

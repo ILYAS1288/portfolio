@@ -10,12 +10,14 @@ export function Main5() {
                 Nice things people have said about me:
             </p>
             <div className="grid gap-8 md:grid-cols-3">
+
                 {/* Testimonial 1 */}
                 <div className="bg-white rounded-lg shadow p-6 flex flex-col items-center">
                     <img src="/image/1.jpeg" alt="Client 1" className="w-20 h-20 object-cover rounded-full mb-4 border-4 border-blue-100" />
                     <h2 className="text-lg font-bold mb-2">Client 1</h2>
                     <p className="text-gray-700 text-center">"Ilyas did a fantastic job on our project. Highly recommend!"</p>
                 </div>
+                
                 {/* Testimonial 2 */}
                 <div className="bg-white rounded-lg shadow p-6 flex flex-col items-center">
                     <img src="/image/1.jpeg" alt="Client 2" className="w-20 h-20 object-cover rounded-full mb-4 border-4 border-blue-100" />
