@@ -65,6 +65,7 @@ export function Main2() {
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" className="w-12 h-12" />
                     <span className="mt-2 text-sm font-medium">CSS3</span>
                 </div>
+                
                 {/* Tailwind CSS */}
 
                 <div className="flex flex-col items-center">
