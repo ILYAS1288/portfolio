@@ -19,8 +19,7 @@ export function Header() {
           </li>
           <li>
             <a href="#contact" className="hover:text-blue-200 transition-colors">Contact</a>
-          </li>
-          
+          </li>       
           <li>
             <a
               href="/cv.pdf"
