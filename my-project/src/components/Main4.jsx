@@ -27,6 +27,7 @@ export function Main4() {
                     </div>
                 </div>
                 {/* Project 2 */}
+                    <div className="flex gap-4"></div>
                 <div className="bg-white rounded-lg shadow p-6 flex flex-col items-center">
                     <img src="/image/2.jpeg" alt="Ecomcial website" className="w-full h-48 object-cover rounded mb-4" />
                     <h2 className="text-xl font-bold text-blue-700 mb-2">Ecomcial Website</h2>

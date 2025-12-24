@@ -13,6 +13,7 @@ export function Main() {
                         in touch!
                     </p>
                 </div>
+                {/* Image on the right */}
                 <div className="flex-shrink-0">
                     <img
                         src="/image/1.jpeg"

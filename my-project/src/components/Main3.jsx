@@ -18,7 +18,7 @@ export function Main3() {
                     <p className="mt-2"><span className="font-semibold">Responsibilities:</span> Developing and maintaining user interfaces using React and Tailwind CSS. Collaborating with designers and backend developers to create seamless web applications. Implementing responsive design principles to ensure optimal user experience across devices.</p>
                     <p className="mt-2"><span className="font-semibold">Achievements:</span> Successfully launched multiple features that improved user engagement by 20%. Optimized application performance, resulting in a 15% reduction in load times.</p>
                 </div>
-             
+                {/* InnovateX */}
                 <div className="bg-white rounded-lg shadow p-6">
                     <h2 className="text-2xl font-bold text-blue-700 mb-2">InnovateX</h2>
                     <p className="font-semibold">Role: <span className="font-normal">Junior Developer</span></p>
