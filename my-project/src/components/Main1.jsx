@@ -16,6 +16,7 @@ export function Main1() {
                         className="w-64 h-80 object-cover rounded-xl shadow-lg"
                     />
                 </div>
+                
                 {/* Text on the right */}
                 <div className="flex-1">
                     <p>

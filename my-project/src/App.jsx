@@ -11,7 +11,6 @@ export function App() {
   return (
     <div>
       <Header/>
-  
     <Main/>
     <Main1/>
     <Main2/>
@@ -20,7 +19,6 @@ export function App() {
     <Main5/>
     <Main6/>
     <Footer/>
-    
     </div>
   );
 }
