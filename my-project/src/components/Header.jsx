@@ -24,6 +24,7 @@ export function Header() {
             <a href="#contact" className="hover:text-blue-600 transition-colors">Contact</a>
           </li>
           <li>
+            {/* Download CV Button */}
             <a
               href="/cv.pdf"
               download
